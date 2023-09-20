@@ -1,0 +1,66 @@
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.searchBar{
+  --ion-background-color: #1f2748;
+  border-radius: 20px;
+  padding: 15px;
+  color: white;
+  padding-bottom: 0;
+
+
+}
+
+searchbar-search-icon.sc-ion-searchbar-md{
+  color: white !important ;
+} 
+
+#container p {
+  margin: 0;
+  font-size: 16px;
+  color: #8c8c8c;
+  line-height: 22px;
+}
+
+#container a {
+  text-decoration: none;
+}
+
+.card{
+  border-radius: 20px;
+  --ion-background-color: #1f2748;
+}
+
+#temp{
+  margin: 5px;
+  font-size: 4em;
+  color: white;
+  font-weight: 300;
+}
+
+#location{
+  color: white;
+}
+
+#locationIcon{
+  margin: 10px;
+  color: #F6B844;
+}
+
+#date{
+  color: #F6B844;
+}
+
+.detailCard{
+  border-radius: 20px;
+  --ion-background-color: #1f2748;
+
+span{
+  color: white;
+  font-weight: 300;
+}
+}
+
+
